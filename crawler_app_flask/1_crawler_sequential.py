@@ -11,5 +11,5 @@ def crawler(url):
 if __name__ == '__main__':
     crawler(URL_SLOWLY)
 
-    for i in range(6):
+    for i in range(20):
         crawler(URL_FASTER)

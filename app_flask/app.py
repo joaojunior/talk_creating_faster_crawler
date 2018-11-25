@@ -5,7 +5,7 @@ from flask import Flask
 app = Flask(__name__)
 
 TIME_FASTER = 1
-TIME_SLOWLY = 9
+TIME_SLOWLY = 10
 
 
 @app.route("/faster")
