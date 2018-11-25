@@ -13,8 +13,7 @@ def crawler(url):
 
 
 if __name__ == '__main__':
-    threads = []
-    t = [Thread(target=crawler, args=(URL_SLOWLY,))]
+    threads = [Thread(target=crawler, args=(URL_SLOWLY,))]
 
     for i in range(20):
         t = Thread(target=crawler, args=(URL_FASTER,))
