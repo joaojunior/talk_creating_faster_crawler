@@ -8,11 +8,12 @@
 │   ├── 1_crawler_sequential.py
 │   ├── 2_crawler_with_threads.py
 │   ├── 3_crawler_with_green_threads.py
+│   ├── 4_crawler_with_async.py
 │   ├── constants.py
 │   └── Makefile
 ├── LICENSE
 ├── README.md
 └── requirements.txt
 
-2 directories, 11 files
+2 directories, 12 files
 ```

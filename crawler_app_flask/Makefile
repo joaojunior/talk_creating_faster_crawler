@@ -6,3 +6,6 @@ threads:
 
 gthreads:
 	bash -c 'time python 3_crawler_with_green_threads.py'
+
+asyncio:
+	bash -c 'time python 4_crawler_with_async.py'
