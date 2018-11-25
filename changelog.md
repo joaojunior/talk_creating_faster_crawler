@@ -17,3 +17,9 @@
 **https://github.com/joaojunior/talk_creating_faster_crawler/releases/v1.2**
 
 - Add the crawler with threads
+
+## Version 1.3
+
+**https://github.com/joaojunior/talk_creating_faster_crawler/releases/v1.3**
+
+- Add the crawler with gthreads
