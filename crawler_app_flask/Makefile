@@ -9,3 +9,6 @@ gthreads:
 
 asyncio:
 	bash -c 'time python 4_crawler_with_async.py'
+
+benchmark:
+	pytest crawler_benchmark.py  --benchmark-histogram --benchmark-min-rounds=100

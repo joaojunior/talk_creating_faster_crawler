@@ -23,3 +23,15 @@
 **https://github.com/joaojunior/talk_creating_faster_crawler/releases/v1.3**
 
 - Add the crawler with gthreads
+
+## Version 1.4
+
+**https://github.com/joaojunior/talk_creating_faster_crawler/releases/v1.4**
+
+- Add the crawler with AsyncIO
+
+## Version 1.5
+
+**https://github.com/joaojunior/talk_creating_faster_crawler/releases/v1.5**
+
+- Add the benchmark scripts
