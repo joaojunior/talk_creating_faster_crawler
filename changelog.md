@@ -35,3 +35,9 @@
 **https://github.com/joaojunior/talk_creating_faster_crawler/releases/v1.5**
 
 - Add the benchmark scripts
+
+## Version 1.6
+
+**https://github.com/joaojunior/talk_creating_faster_crawler/releases/v1.6**
+
+- Add the crawler with Multiprocessing

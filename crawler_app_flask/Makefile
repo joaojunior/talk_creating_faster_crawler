@@ -10,5 +10,8 @@ gthreads:
 asyncio:
 	bash -c 'time python 4_crawler_with_async.py'
 
+multiprocessing:
+	bash -c 'time python 5_crawler_with_multiprocessing.py'
+
 benchmark:
 	pytest crawler_benchmark.py  --benchmark-histogram --benchmark-min-rounds=100

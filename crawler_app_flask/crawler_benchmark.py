@@ -11,3 +11,7 @@ def test_crawler_with_green_threads(benchmark):
 
 def test_crawler_with_asyncio(benchmark):
     benchmark(os.system, 'python 4_crawler_with_async.py')
+
+
+def test_crawler_with_multiprocessing(benchmark):
+    benchmark(os.system, 'python 5_crawler_with_multiprocessing.py')
