@@ -41,3 +41,9 @@
 **https://github.com/joaojunior/talk_creating_faster_crawler/releases/v1.6**
 
 - Add the crawler with Multiprocessing
+
+## Version 2.0
+
+**https://github.com/joaojunior/talk_creating_faster_crawler/releases/v2.0**
+
+- Add the crawlers for many requests
