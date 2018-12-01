@@ -18,3 +18,8 @@ def faster():
 def slowly():
     time.sleep(TIME_SLOWLY)
     return "Slowly!"
+
+
+@app.route("/text")
+def text():
+    return "Text!"
