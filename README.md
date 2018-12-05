@@ -6,7 +6,7 @@ In the presenation I showed how to work with blocking IO and non-blocking IO in 
 You can access the slides of this presentation in my website: http://joaojunior.org/presentations/creating-a-faster-crawler/
 
 ## Requirements
-To run the examples here is required the python 3.7 and install the libraries in the `requirements.txt`.
+To run the examples here is required the python >= 3.6.5 and install the libraries in the `requirements.txt`.
 To install all the libraries, run the command: `pip install -r requirements.txt`
 
 ## How to run the examples
