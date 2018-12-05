@@ -47,3 +47,5 @@
 **https://github.com/joaojunior/talk_creating_faster_crawler/releases/v2.0**
 
 - Add the crawlers for many requests
+- Add the crawlers for 1 million requests
+- Update the README
