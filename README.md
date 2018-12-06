@@ -20,7 +20,7 @@ To run the second example, go to the folder `app_flask` and run the server with 
 After this, you can go to the folder `crawler_app_flask_many_requests` and run the command `make benchmark` to generate all the benchmark.
 
 To run the last example, go to the folder `app_flask` and run the server with the command: `make example_2`.
-After this, you can go to the folder `crawler_app_flask_many_requests` and run the command `make benchmark` to generate all the benchmark.
+After this, you can go to the folder `crawler_app_flask_1_million_requests` and run the command `make benchmark` to generate all the benchmark.
 
 
 ## Folder Structure
